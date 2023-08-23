@@ -1,0 +1,86 @@
+.task-items-container {
+    list-style-type: none;
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+  }
+  .task-container {
+    display: flex;
+    width: 90%;
+  }
+  
+  .initial {
+    color: #ffffff;
+    font-size: 15px;
+    margin: 0px;
+  }
+  .button {
+    background-color: transparent;
+    color: #7e858e;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .checked {
+    color: #0ea5e9;
+  }
+  
+  .title-container {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .title {
+    color: #334155;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .time {
+    color: #94a3b8;
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .description {
+    color: #64748b;
+    font-size: 15px;
+    width: 400px;
+    max-width: 60vw;
+  }
+  .buttons-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .checked-button {
+    display: flex;
+    align-items: center;
+  }
+  .check {
+    height: 18px;
+    width: 18px;
+    margin-right: 10px;
+    background-color: transparent;
+  }
+  .delete-image {
+    height: 18px;
+    width: 18px;
+  }
+  .hr-taskLine {
+    width: 100%;
+    border: 1px #dee0e3;
+  }
+  .initial-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-right: 10px;
+    flex-shrink: 0;
+  }
+  

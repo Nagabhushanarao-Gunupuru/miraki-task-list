@@ -1,6 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Task Management App   
+
+Description :
+This is a “Task Management Application" designed for managing the tasks.Task management application designs to streamline your productivity and help you achieve your goals with ease.
+
+
+Approach to complete the Project :
+Features:
+ 
+   -First I divided the entire application into routes Login Route , Tasks Route etc.,
+
+
+ Technologies:
+
+
+   -For building and responsiveness of the application I use "React"
+   - For styling I Use "CSS"
+   - For Debugging I use "Browser Developers Tools" 
+   
+ Tools:  
+   - To develop this Application I use a platform called VS code
+   - For Source control --> Git 
+
+
+ Why React Js :
+    React Js was chosen to build more performant websites with less code when compared to Js. 
+    And also it is open source with strong community and third-party packages 
+
+
+ Third-party packages:
+    react
+    react-router-dom ---> For navigating from one route to another route 
+
+
+Challenging and Exciting Approaches :
+    - One of the challenging approach is navigating from one route to another route  using third-party package react-router-dom 
+    - Another one is creating checked and unchecked status.
+
+
+Resources :
+    - For third-party packages I use "node package manager"
+
+
+Video link for overview of the App 
+https://res.cloudinary.com/dsnbihsqy/video/upload/v1692811323/React_App_-_Google_Chrome_2023-08-23_22-45-53_aeyt4q.mp4
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 

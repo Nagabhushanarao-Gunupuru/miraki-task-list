@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miraki-task-list/static/css/main.af627c24.css",
+    "main.js": "/miraki-task-list/static/js/main.b1445a34.js",
+    "static/js/787.cda612ba.chunk.js": "/miraki-task-list/static/js/787.cda612ba.chunk.js",
+    "index.html": "/miraki-task-list/index.html",
+    "main.af627c24.css.map": "/miraki-task-list/static/css/main.af627c24.css.map",
+    "main.b1445a34.js.map": "/miraki-task-list/static/js/main.b1445a34.js.map",
+    "787.cda612ba.chunk.js.map": "/miraki-task-list/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af627c24.css",
+    "static/js/main.b1445a34.js"
+  ]
+}
